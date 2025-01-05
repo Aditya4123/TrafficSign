@@ -1,3 +1,3 @@
 # Traffic-sign-recognition
-Thismodel uses Computer vision and cnn to recognize 43 different traffic signs 
+This model uses Computer vision and cnn to recognize 43 different traffic signs 
 "# TrafficSignML" 
